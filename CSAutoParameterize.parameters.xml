@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="NATURALLIFEEntities-Web.config Connection String" description="NATURALLIFEEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.natural.csdl|res://*/Models.natural.ssdl|res://*/Models.natural.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=DESKTOP-MKI5TSE;initial catalog=NATURALLIFE;persist security info=True;user id=sa;password=lechubau;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\NATURALLIFE\\NATURALLIFE\\NATURALLIFE\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NATURALLIFEEntities']/@connectionString" />
+  </parameter>
+</parameters>
